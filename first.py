@@ -2,7 +2,7 @@ import RPi.GPIO as GPIO
 import time
 
 # Set up GPIO pin for the servo motor
-servo_pin = 17  # GPIO17 (Pin 11)
+servo_pin = 18  # GPIO17 (Pin 11)
 
 # Set the GPIO mode
 GPIO.setmode(GPIO.BCM)
